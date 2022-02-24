@@ -1,0 +1,399 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The merry Dutch miller and new invented windmill. Wherewith he undertaketh to grind all sorts of women, as the old, decreped, wrinkled, blear-ey'd, long-nosed, blind, lame, scolds, jealous, angry, poor, drunkerds whores, sluts; or all others whatsoever. They shall come out of his mill, young, active, pleasant, handsome, wise, loving, vertuous and rich; without any deformity, and just suteable to their hunbands humours. The rich for money, and the poor for nothing. Composed dialogue wise, for the recreation of all those that are inclined to be merry, and may serve to pass away an hour in a cold winter night (without any great offence) by a good fire side.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1672</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50716</idno>
+            <idno type="STC">Wing M1863</idno>
+            <idno type="STC">ESTC R217816</idno>
+            <idno type="EEBO-CITATION">99829459</idno>
+            <idno type="PROQUEST">99829459</idno>
+            <idno type="VID">33899</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A50716)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33899)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1919:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The merry Dutch miller and new invented windmill. Wherewith he undertaketh to grind all sorts of women, as the old, decreped, wrinkled, blear-ey'd, long-nosed, blind, lame, scolds, jealous, angry, poor, drunkerds whores, sluts; or all others whatsoever. They shall come out of his mill, young, active, pleasant, handsome, wise, loving, vertuous and rich; without any deformity, and just suteable to their hunbands humours. The rich for money, and the poor for nothing. Composed dialogue wise, for the recreation of all those that are inclined to be merry, and may serve to pass away an hour in a cold winter night (without any great offence) by a good fire side.</title>
+               </titleStmt>
+               <extent>[16] p. : ill. (woodcut)  </extent>
+               <publicationStmt>
+                  <publisher>printed by E. Crowch, for F. Coles, T. Vere, and J. Wright,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1672.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A.</note>
+                  <note>With a woodcut frontispiece.</note>
+                  <note>Imperfect; pages cropped and stained with print show-through affecting text.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Women --  Fiction --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="frontispiece">
+            <pb facs="tcp:33899:2"/>
+            <p>
+               <figure>
+                  <figDesc>the transforming windmill and its female victims</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:33899:1"/>
+            <pb facs="tcp:33899:1" rendition="simple:additions"/>
+            <p>THE MERRY Dutch Miller: AND New Invented Windmill.</p>
+            <p>Wherewith the undertaketh to grind all Sorts of <hi>Women,</hi> as the Old, Decreped, Wrinkled, Blear-ey'd, Long-Noſed, Blind, Lame, Scolds, Jealous, Angry, Poor, Drunkerds Whores, Sluts; or all others whatſoever. They ſhall come out of his Mill Young, Active, Pleaſant, Hand<g ref="char:EOLhyphen"/>ſome, Wiſe, Loving, Vertuous and Rich; Without any Deformity, and juſt ſute<g ref="char:EOLhyphen"/>able to their Husbands Humours.</p>
+            <p>The Rich for Money, and the Poor for nothing.</p>
+            <p>Compoſed Dialogue wiſe, for the Recrea<g ref="char:EOLhyphen"/>tion of all thoſe that are Inclined to be merry, and may ſerve to paſs away an hour in a cold winter night (without any great offence) by a good fire ſide.</p>
+            <q>
+               <l>The <hi>Miller</hi> and the <hi>Mill</hi> you ſee,</l>
+               <l>How throng'd with <hi>Cuſtomers</hi> they be:</l>
+               <l>Then bring your <hi>Wives</hi> unto the <hi>Mill,</hi>
+               </l>
+               <l>And Young for Old you ſhall have ſtill.</l>
+            </q>
+            <p>
+               <hi>London,</hi> Printed by <hi>E. Crowch,</hi> for <hi>F. Coles, T. Ver<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> and <hi>I. Wright.</hi> 1672<g ref="char:punc">▪</g>
+            </p>
+            <pb facs="tcp:33899:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:33899:3"/>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:33899:3"/>
+            <head>THE MERRY Dutch Miller: AND New Invented Windmill.</head>
+            <div type="prologue">
+               <head>The Millers Prologue,</head>
+               <p>YOu Gentlemen and good People all, of this Famous <hi>Engliſh</hi> Nation, know y<hi rend="sup">t</hi> I am no <hi>Mountebank,</hi> but a down right <hi>Miller,</hi> newly come from beyond the Seas, whereto my laſting praiſe I have prov'd my ſelf to be an Artiſt beyond compare: for with this my new Invented <hi>Wind-mill</hi> I have done rare Feats, in Grinding all ſorts of <hi>Wo<g ref="char:EOLhyphen"/>men,</hi> whether old, or young, in City or Coun<g ref="char:EOLhyphen"/>trey, from the Lady to the Beggar, if they be Deformed, Wrinkled, Blearey'd, long Noſ'd, Blind, Lame, Iealous, Angry, or whatſo<g ref="char:EOLhyphen"/>ever,
+<pb facs="tcp:33899:4"/>
+nay though ſhe were as old as <hi>Charing-Croſs,</hi> or as crooked as <hi>Mother Shipton,</hi> or the arranteſt Scold that ever came from <hi>Billings-gate,</hi> I will Ingage to make them Young, Ac<g ref="char:EOLhyphen"/>tive, Pleaſant, Handſom, Modeſt loveing kind and Rich, &amp; juſt Suteable to their Husbands humors. As I have often experienc't in o<g ref="char:EOLhyphen"/>ther Countreys where I have made practice of my Art. Therefore if there be any perſons whatſoever, whoſe Wives are troubled with any of theſe infermities, or any other, let them bring them to my <hi>Mill</hi> &amp; they ſhall have Young for Old, Rich for Poor, Sound for Lame, &amp;c. And have preſent remedy, in leſs then an hours ſpace. But let this ſuffice that I have already ſaid, for now the wind blows freſh, &amp; I perceive my Cuſtomers flocks in a pace therefore I muſt make uſe of time, while time ſerves, &amp; the firſt that I ſhall encounter with, is <hi>Will the Weaver,</hi>who bringns his Wife up<g ref="char:EOLhyphen"/>on his Back, then pray let us hear what he will ſay.</p>
+            </div>
+            <div type="body_of_dialogue">
+               <sp>
+                  <speaker>Miller.</speaker>
+                  <p>Good morrow honeſt <hi>Will:</hi> I prethée what wind hath blown thée hither this morn<g ref="char:EOLhyphen"/>ing, that thou comes laden with ſuch a heavy burden upon thy Back.</p>
+               </sp>
+               <sp>
+                  <speaker>Will.</speaker>
+                  <p>Truly Maſter <hi>Miller,</hi> if you knew all you
+<pb facs="tcp:33899:4"/>
+would ſay ſhe were a heavy burthen indeed, and yet it is a burthen that I have been troubled with many years to my ſorrow, But now I hope I ſhall be eaſed of it, for I hear by ſome of our neighbors that you have excellent Skill in curing <hi>Womens</hi> in<g ref="char:EOLhyphen"/>firmities and that is the reaſon I brought her.</p>
+               </sp>
+               <sp>
+                  <speaker>Mill.</speaker>
+                  <p>I muſt confeſs that my <hi>Mill</hi> will cure her of all Diſtempers; but I prethée tell what are the chiefeſt troubles, that I may be ſatisfied therein?</p>
+               </sp>
+               <sp>
+                  <speaker>Will.</speaker>
+                  <p>To ſpaak the truth ſhe is ſo old, that ſhe cannot hear her ſelf Fart; nay more then that, ſhe hath never a good condition, nor never had; and to ſpeak all in a word, ſhe is ſtark-naught; there<g ref="char:EOLhyphen"/>fore I am reſolved to carry her up ſtairs and put her into the Hopper whilſt it is empty, for fear any other ſhould be before me.</p>
+               </sp>
+               <sp>
+                  <speaker>Miller.</speaker>
+                  <p>I prethée do ſo honeſt <hi>Will:</hi> for now the wind blows merrily, and whiles the wiſe is a Grinding I will have a little talk with <hi>Jack Doo-Little,</hi> who comes here, whéeling his Wife in a <hi>Wheel-Barrow,</hi>
+                  </p>
+                  <p>Welcome <hi>Jack Doo-little,</hi> welcome to my <hi>Mill,</hi> methinks you take a great deal of pains this morning.</p>
+               </sp>
+               <sp>
+                  <speaker>Jack:</speaker>
+                  <p>O help a little, good Gaffer <hi>Miller</hi> help me, for I am ſo over tyr'd with crowding of an old piece of Mortallity hither, that I had better
+<pb facs="tcp:33899:5"/>
+a thrown her to the Doggs then ever been trou<g ref="char:EOLunhyphen"/>bled with her, but now I have got her thus farr<g ref="char:punc">▪</g> hope the worſt is paſt.</p>
+               </sp>
+               <sp>
+                  <speaker>Mil.</speaker>
+                  <p>Why: who is it thou haſt got in thy Barrow that thou doeſt ſo exclaim upon her.</p>
+               </sp>
+               <sp>
+                  <speaker>Jack.</speaker>
+                  <p>Who is it, it is my old <hi>Wife,</hi> a Murrain take her, would I had never ſeen the eyes of her, for ſhe never did me a good deed in her life, and yet ſhe hath coſt me many a pound to keep her old rotten Carkaſe from ſinking into the Grave, but now I am reſolved to have her Ground as ſmall as ever was any gun Powder.</p>
+               </sp>
+               <sp>
+                  <speaker>Miller.</speaker>
+                  <p>Take no care for the ſhall be Ground according to thy hearts deſire, and I doe pro<g ref="char:EOLhyphen"/>miſe the thou, ſhalt have a young Bedfellow inſtead of thy old morterpeice, But ſtay who comes next; what a whole <hi>Boat</hi> full at a time, I hope my trade will prove a great deal better then many think for, welcome honeſt <hi>Water-man</hi> I ſée you bring them in by wholeſale, what would you have done to theſe Girles, they ſéem to be young and ſerviceable.</p>
+               </sp>
+               <sp>
+                  <speaker>Wat.</speaker>
+                  <p>Introth you are very much miſtaken for they are neither young nor ſerviceable, do but waſh of their Paint and you will ſee that they are both old and ill thriven, and have as many diſeaſes as an old Horſe, for by their light heel'd trade all their life time, and being ſo underlaid they have
+<pb facs="tcp:33899:5"/>
+made their Bodies meer Hoſpitalls of Diſeaſes, therefore if you be not very careful in throwing them into your Hopper, you will have them drop in pieces about your ears, they are ſo rotten.</p>
+               </sp>
+               <sp>
+                  <speaker>Miller.</speaker>
+                  <p>Say you ſo, then I am ſomething afraid they ſhould clogg my <hi>Mill</hi> and ſpoyl it; but I prethée tell me where have theſe Ladyes led their lives before you brought them hither.</p>
+               </sp>
+               <sp>
+                  <speaker>Wat.</speaker>
+                  <p>Why, they have been about their occaſi<g ref="char:EOLhyphen"/>ons ſometimes in <hi>Whetſtones Park</hi> and <hi>Le<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>te<gap reason="illegible" extent="4 letters">
+                           <desc>••••</desc>
+                        </gap>s-lane,</hi> and ſometimes a<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> perboyling in the Lock in <hi>Southwark;</hi> from whence I juſt now brought them in my <hi>Boat</hi> accounting them to be a very light fraight.</p>
+               </sp>
+               <sp>
+                  <speaker>Miller.</speaker>
+                  <p>But what wouldeſt thou have done to them, you know it is an old ſaying, that once a Whore and alwayes a Whore, yet for all that, if the wind prove good I do not fear but to make them as honeſt, and as healthfull as they were, when they were but ten years of Age.</p>
+               </sp>
+               <sp>
+                  <speaker>Wat.</speaker>
+                  <p>I thought you could Grind one of th<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m quickly till ſhe w<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>re both ha<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſome &amp; wholeſome, I would ſtay a little perhaps ſhe might let me have a caſt of her office for a caſt of mine.</p>
+               </sp>
+               <sp>
+                  <speaker>Mil.</speaker>
+                  <p>How can that be, did not I tell thée I would Grind them till they were honeſt.</p>
+               </sp>
+               <sp>
+                  <speaker>Wat.</speaker>
+                  <p>What if you do Grind them till they
+<pb facs="tcp:33899:6"/>
+are honeſt, may they not turn Whores again as ſoon as they pleaſe.</p>
+               </sp>
+               <sp>
+                  <speaker>Mill.</speaker>
+                  <p>I cannot ſpare time now to contend with thée betwixt wind and water, but I tell thée i'le Grind them as they ſhould be Ground and then no queſtion but they will be right a<g ref="char:EOLhyphen"/>gain, Believe it if the Wind blow fair. I'le make thy fraight, prove Market Ware.</p>
+                  <p>But who is that comes hauling his Wiſe, by the middle? who, <hi>Kit,</hi> the <hi>Cooper,</hi> O brave <hi>Kit</hi> I ſée thou brings thy Wife to my<hi>Mill</hi> as round as a Hoop, what's the matter.</p>
+               </sp>
+               <sp>
+                  <speaker>Cooper.</speaker>
+                  <p>What's the matter: nay you'l ſay it's an ill Wind that blows no body profit, I have ſuch a matter in hand, as would make a man mad to underſtand it, here is my old Wife, <hi>Joan,</hi> that hath been a vexation to me this twenty years, and one of the leaſt of her faults is, that ſhe cannot hold har Water, and for my part I have uſed the beſt skill that belongs to my Trade, for I have hoop'd her, till all the Neighbours have come in and call'd me Knave, and yet all that ever I can do will not ſtop her old Leak.</p>
+               </sp>
+               <sp>
+                  <speaker>Mill.</speaker>
+                  <p>Piſh man that's the leaſt fault of a thouſand to be cured.</p>
+               </sp>
+               <sp>
+                  <speaker>Cooper.</speaker>
+                  <p>Marry ſo it had need, for I think ſhe hath a thouſand worſe then that, but now I have her here I will have her cured of them all or elſe it
+<pb facs="tcp:33899:6"/>
+ſhall coſt me a fall.</p>
+               </sp>
+               <sp>
+                  <speaker>Mil.</speaker>
+                  <p>Take no care, for I will Grind her as never old horſe was ground, I will make her old bones rattle in her skin like a Barrel of egg ſhells, but here comes <hi>Martin Marrall</hi> I muſt either ſpeak to him or elſe all the Fat will be in the fire. how now <hi>Martin;</hi> have a care you do not marr all, by dragging your Wife ſo by one foot.</p>
+               </sp>
+               <sp>
+                  <speaker>Mar.</speaker>
+                  <p>It is not a Pin matter how I drag her, for ſhe hath drag'd me by the hair of my head, many a time and often, and I'le warrant you for all this, let her but take breath, and ſhe ſhall ſtart up and call me as many Rogues as can ſtand be<g ref="char:EOLhyphen"/>twixt this, and <hi>Amſterdam,</hi> for ſhe is a <hi>Rotter-damnable</hi> Scold, nay her very voice is enough to Sowre all the Ale in the Town, worſe then either a clap of thunder, or the Sound of the great <hi>Bell</hi> at <hi>Lincolne.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Mil.</speaker>
+                  <p>O good <hi>Martin</hi> let me not hear her o<g ref="char:EOLhyphen"/>pen, for hear is Wind enough allready, and a little more might chance to over ſet my <hi>Mill,</hi> for to tell you the truth no<hi>Woman</hi> is to make uſe of her tongue in this place, for as ſoon as the <hi>Mag-Pye</hi> begins to chatter I turn her over into the <hi>Hopper,</hi> and away ſhe goes.</p>
+               </sp>
+               <sp>
+                  <speaker>Mar.</speaker>
+                  <p>But I think I had beſt have her Ground after the new faſhion, that is, to come out again
+<pb facs="tcp:33899:7"/>
+without a tongue, for I have been ſo tormented with it, that I ſhall be afraid ever to venture on a Woman with a Tongue ſo long as I have ears to hear.</p>
+               </sp>
+               <sp>
+                  <speaker>Miller.</speaker>
+                  <p>As you pleaſe for that, I'le warrant you ſhe ſhall be ground juſt as you would have her, and that's as much as the honeſteſt <hi>Miller</hi> in the Land can ſay<g ref="char:punc">▪</g> But what railing noiſe is this that I hear? what a whole Coachfull of Ladies? I perceive my fame rings through Court, City, and Country, I would ſcarce leave this Trade to turn <hi>Vſurer,</hi> welcome ho<g ref="char:EOLhyphen"/>neſt Coach-man, what have you brought me here, I here this will be a lucky jobb, for by their fine Feathers they ſhould have well lined purſes.</p>
+               </sp>
+               <sp>
+                  <speaker>Coach</speaker>
+                  <p>What have I brought you; Marry I have brought you them that were not able to bring th<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mſ<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lves, ſ<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ch a parcel of old decay'd Mad<g ref="char:EOLhyphen"/>dams, or what you pleaſe to call them as I think old <hi>Nick</hi> would not be troubled with, for they have been ſo over ridden wi<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h all ſorts of Gallants, that they are not now fit for a <hi>Broom man,</hi> And now ſo ſooth they have a mind to be young again, for their hearts are good though their heels will not up as formerly they have done.</p>
+               </sp>
+               <sp>
+                  <speaker>Mil.</speaker>
+                  <p>I can do no leſs then give them a litle reſpect for what they have been, and I will pro<g ref="char:EOLhyphen"/>miſe
+<pb facs="tcp:33899:7"/>
+to Grind them like Perſons of Quallity for they ſhall be ſure of a clean <hi>Hopper </hi> and o<g ref="char:EOLhyphen"/>ther things which I am ſure they love well. I do not queſtion but you are well paid for bringing them.</p>
+               </sp>
+               <sp>
+                  <speaker>Coach.</speaker>
+                  <p>I, you may ſwear it, for becauſe they were old I held them to hard meat, or elſe perhaps a little 'th tone with tother might have ſerved my turn, but I pray you do your work well, and it may be I may help you to more Cuſtomers, for I know a great many more that ſtands in need of Grinding.</p>
+               </sp>
+               <sp>
+                  <speaker>Miller.</speaker>
+                  <p>Never fear but I will do my work well, for ſo ſoon as ever my things are in order they ſhall be the firſt that I will go about; and I do not doubt but to give them content.</p>
+                  <l>For he that doth, Old Ladyes Grind,</l>
+                  <l>Had need to have, a very merry Wind.</l>
+                  <p>But who comes next? <hi>Peter</hi> the Piper: I hope he will make us all merry. Welcom<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <hi>Peter,</hi> you are a man that deals in Wind a<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> well as my ſelf, therefore be ſure if you hav<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> any thing to do, I will befrind you.</p>
+               </sp>
+               <sp>
+                  <speaker>Piper.</speaker>
+                  <p>O good Brother Wind-baggs, ſtand t<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> your Pan-pudding, and help me up ſtairs with th<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> moſt untoward, croſs piece of carrion, that ev<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <pb facs="tcp:33899:8"/>
+poor Piper was troubled withall, for as I was crowding her along, ſhe let ſuch a Fart, that I believe it would have blown your Mill-ſails about; and if it had not come out at that end, and then no doubt but ſhe had raiſed a Tempeſt, that would not a been laid again in haſt; but of all the faults ſhe hath, none torments me ſo much as her jea<g ref="char:EOLhyphen"/>louſie, for you know I muſt Play at Feaſts and Weddings, and if I do but chance to kiſs a Maid, ſhe is horn-mad.</p>
+               </sp>
+               <sp>
+                  <speaker>Miller.</speaker>
+                  <p>Never trouble your ſelf, if that be all, I'le make her patient enough, nay more then that, after I have done with her, ſhe ſhall be ſo pleaſant and merry, that ſhe ſhall never hear you play, but ſhall dance, and I'me ſure that will pleaſe you, and make fine ſport.</p>
+               </sp>
+               <sp>
+                  <speaker>Piper.</speaker>
+                  <p>I muſt confeſs that will pleaſe me, for if ſhe be in ſuch a dancing humour, I will make her dance about the houſe with my Pipe, as often as ever ſhe made me dance about with a Broom-ſtaff, and that hath been (as I may ſay) too often.</p>
+               </sp>
+               <sp>
+                  <speaker>Miller.</speaker>
+                  <p>Well, ſhe ſhall ſerve you ſo no more I'le promiſe you, therefore Tune up your Pipes, and play <hi>The worſt is paſt,</hi> and in the mean time I will Grind her as ſmall as ſmall Coles, whilſt I ſing this Song.</p>
+                  <l>MY Mill it goes merrily round;</l>
+                  <l>My Mill it goes merrily round,</l>
+                  <l>The Pipers Wife I'le venture my life,</l>
+                  <l>
+                     <pb facs="tcp:33899:8"/>
+She ſhall be very well Ground, Ground,</l>
+                  <l>O ſhe ſhall be very well Ground.</l>
+                  <p>But who comes here! Oh, my old Friend honeſt <hi>Ned,</hi> with his Wife <hi>Bette</hi> (the Parſons Daughter in a Dung-cart, I will do him all all the courteſie I can.</p>
+               </sp>
+               <sp>
+                  <speaker>Ned.</speaker>
+                  <p>Oh! help, help good <hi>Miller,</hi> or I am ut<g ref="char:EOLhyphen"/>terly undone, I have here in my Dungcart the moſt abominableſt load of Foul-ſtuff that ever man laid Leg over, ſhe is fit for nothing, except it were to make a <hi>Chriſtmas-Log</hi> off, and then ſhe would make ſuch a damnable ſtinck (in the burning) that ſhe will ſpoil all the Plumb-pottage and Roaſt-beef in Town: If you do not Grind her, I muſt e'ne take a Halter and hang my ſelf? for I have endured a worſt Bondage with her (for this twelve years) than ever the <hi>Children of Iſrael</hi> did in <hi>Eygipt.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Miller.</speaker>
+                  <p>Prethée <hi>Ned</hi> tell me her faults, and I'le Grind her to what perfection you will have her.</p>
+               </sp>
+               <sp>
+                  <speaker>Ned.</speaker>
+                  <p>Her Faults? She hath ſo many that it is impoſſible to rickon them all up in the longeſt Summers day: Oh that Parſons had never been ſuffered to marry, then we had never been ſo tor<g ref="char:EOLhyphen"/>mented with their wicked Daughters.</p>
+               </sp>
+               <sp>
+                  <speaker>Mill.</speaker>
+                  <p>You had beſt take my Rope and faſt<g ref="char:EOLhyphen"/>en
+<pb facs="tcp:33899:9"/>
+it about her midddle, and we will Crane her up into the <hi>Hopper,</hi> for ſhe is ſo Fat and Fog<g ref="char:EOLhyphen"/>gey, that we ſhall never get her up elſe.</p>
+                  <l>From all Parſons Daughters, that ſo filthy be</l>
+                  <l>I beſeech the good Lord to deliver me.</l>
+                  <p>But now by this time I think I have done a good dayes work, therefore I deſire that all my loving Cuſtomers, would come and tell me if I have given you content, and then I ſhall be well ſatisfied and draw to a concluſion for this day.</p>
+               </sp>
+               <sp>
+                  <speaker>Cuſtomers.</speaker>
+                  <p>O we are all very well pleaſed to our hearts content, for our Wives are now ſuteable to our humour, therefore we wiſh you good for<g ref="char:EOLhyphen"/>tune whereever you go<g ref="char:punc">▪</g>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Mil.</speaker>
+                  <p>I told you I would give you content, &amp; <hi>I</hi> am glad <hi>I</hi> have perform'd my promiſe, <hi>I</hi> muſt confeſs I have had good Trading here in<hi>Eng<g ref="char:EOLhyphen"/>land</hi> and <hi>I</hi> entend wh<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n <hi>I </hi> remove to go amongſt the <hi>Frenchcified</hi> Ladyes; for they may be a means to bring good Griſts to my Mill: And ſo for the preſent I bid you farewell.</p>
+                  <lg>
+                     <l>If there be any have a mind,</l>
+                     <l>To bring more Women, for to Grind,</l>
+                     <l>I pray be quick, make no delay,</l>
+                     <l>But to my <hi>Mill,</hi> come all away</l>
+                     <l>And if I have a merry wind,</l>
+                     <l>I'le pleaſe you all, as you ſhall find.</l>
+                  </lg>
+               </sp>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:33899:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
